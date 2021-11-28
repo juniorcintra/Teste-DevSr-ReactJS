@@ -29,8 +29,11 @@ export default function Sobre() {
             Styled-Components e CSS3 (usado em animações de loading).
           </Paragraph>
           <Paragraph>
-            O código fonte desse projeto está no repositório:{" "}
-            <a href="https://google.com.br">Teste Dev React</a> do GitHub.
+            O código fonte desse projeto está no repositório:
+            <a href="https://github.com/juniorcintra/Teste-DevSr-ReactJS">
+              Teste Dev React
+            </a>
+            do GitHub.
           </Paragraph>
           <Paragraph>Espero que gostem :)</Paragraph>
         </DivTexto>
