@@ -87,7 +87,7 @@ export default function Produtos() {
                 <Lancamento>
                   {moment(produto.release_date).format("DD/MM/YYYY")}
                 </Lancamento>
-                <Sinopse>{produto.overview.substr(0, 100) + "..."}</Sinopse>
+                <Sinopse>{produto.overview}</Sinopse>
               </Filme>
             ))}
         {filmesList &&

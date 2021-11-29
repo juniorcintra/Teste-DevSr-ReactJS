@@ -67,7 +67,7 @@ export const Poster = styled.img``;
 export const Filme = styled.div`
   padding: 16px;
   width: 335px;
-  height: 520px;
+  min-height: 590px;
   display: flex;
   flex-direction: column;
   justify-content: center;
