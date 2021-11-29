@@ -49,11 +49,11 @@ export const ButtonFiltro = styled.button`
 export const DivFilmes = styled.div`
   max-width: 1220px;
   width: 90%;
-  min-height: 560px;
+  min-height: 590px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
   flex-wrap: wrap;
   margin-top: 20px;
 
